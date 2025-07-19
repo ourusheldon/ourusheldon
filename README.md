@@ -31,8 +31,8 @@ I'm a passionate **Full-Stack Developer** with expertise in building modern web 
 
 ## 📊 GitHub Stats
 
-![Sheldon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OHURUsheldon&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OHURUsheldon&layout=compact&theme=radical)
+![Sheldon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ourusheldon&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ourusheldon&layout=compact&theme=radical)
 
 ## 🏆 GitHub Trophies
 
@@ -41,7 +41,7 @@ I'm a passionate **Full-Stack Developer** with expertise in building modern web 
 ## 📫 Let's Connect
 
 - LinkedIn: [Your LinkedIn URL]
-- Twitter/X: https:x.com/ourusheldon
+- Twitter/X: [https:x.com/ourusheldon]
 - Blog/Portfolio: [Your Portfolio URL]
 
 ---
