@@ -36,7 +36,7 @@ I'm a passionate **Full-Stack Developer** with expertise in building modern web 
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=OHURUsheldon&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ourusheldon&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📫 Let's Connect
 
