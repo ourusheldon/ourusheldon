@@ -49,3 +49,5 @@ I'm a passionate **Full-Stack Developer** with expertise in building modern web 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
 Thanks for stopping by! 🚀
+
+<img src="https://raw.githubusercontent.com/ourusheldon/ourusheldon/output/snake.svg" alt="Snake animation" />
