@@ -40,9 +40,10 @@ I'm a passionate **Full-Stack Developer** with expertise in building modern web 
 
 ## 📫 Let's Connect
 
-- LinkedIn: [Your LinkedIn URL]
-- Twitter/X: [https:x.com/ourusheldon]
-- Blog/Portfolio: [Your Portfolio URL]
+- Email: ourusheldon@gmail.com
+- Twitter/X: <div> <a href="https://x.com/Velstruck" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a> </div>
 
 ---
 
