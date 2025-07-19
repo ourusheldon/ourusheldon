@@ -50,4 +50,4 @@ I'm a passionate **Full-Stack Developer** with expertise in building modern web 
 
 Thanks for stopping by! 🚀
 
-<img src="https://raw.githubusercontent.com/ourusheldon/ourusheldon/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ourusheldon/ourusheldon/snake.svg" alt="Snake animation" />
