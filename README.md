@@ -41,7 +41,7 @@ I'm a passionate **Full-Stack Developer** with expertise in building modern web 
 ## 📫 Let's Connect
 
 - LinkedIn: [Your LinkedIn URL]
-- Twitter/X: [ourusheldon]
+- Twitter/X: https:x.com/ourusheldon
 - Blog/Portfolio: [Your Portfolio URL]
 
 ---
