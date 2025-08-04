@@ -34,7 +34,7 @@ I'm a passionate **Full-Stack Developer** with expertise in building modern web 
 ## 📊 GitHub Stats
 
 <!---  ![](https://github-readme-stats.vercel.app/api?username=ourusheldon&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=true)<br/> -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=ourusheldon&theme=shadow_green&hide_border=true)<br/>
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ourusheldon&theme=shadow_green&hide_border=true)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ourusheldon&layout=compact&theme=radical)
 
 ![Sheldon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ourusheldon&show_icons=true&theme=radical)
