@@ -47,7 +47,7 @@ I'm a passionate **Full-Stack Developer** with expertise in building modern web 
 ## 📫 Let's Connect
 
 - Email: ourusheldon@gmail.com
-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ourusheldon__m) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ourusheldon) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/ourusheldon) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ourusheldon) 
+- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ourusheldon) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ourusheldon) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/ourusheldon) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ourusheldon) 
 
  <div> <a href="https://x.com/ourusheldon" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
